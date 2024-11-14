@@ -1,0 +1,16 @@
+title = "BlockUtils"
+
+[log_info]
+level = "info"
+dir_name = "Logs"
+file_name = "app.log"
+
+[db_info]
+host = "127.0.0.1"
+port = 5432
+user = "user"
+usdt_db = "DB_NAME"
+password = "password"
+
+min_connections = 1
+max_connections = 50
